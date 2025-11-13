@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**BrutusSMG/BrutusSMG** um repositório ✨ _special_ ✨ porque (este arquivo) `README.md` aparece no seu perfil do GitHub.
+**Fabio Goulart** um repositório ✨ _special_ ✨ porque (este arquivo) `README.md` aparece no seu perfil do GitHub.
 
 Here are some ideas to get you started:
 
